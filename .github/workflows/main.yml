@@ -1,0 +1,13 @@
+name: Deploy Javadoc
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy Javadoc
+      uses: MathieuSoysal/Javadoc-publisher.yml@v1.0.2
