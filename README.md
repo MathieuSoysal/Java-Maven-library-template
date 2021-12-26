@@ -12,7 +12,7 @@ Template to easily create a Java Maven library and publish it automatically on G
 
 ## Use template
 
-To use this template, you just need to click on "Use this template" on the main page of this repository, or you can copy/paste this repository.
+To use this template, you just need to click on "Use this template" at the top of the main page of this repository, or you can copy/paste this repository.
 
 ## Requirements
 - [ ] [Create an account on Sonatype](https://issues.sonatype.org/secure/Signup!default.jspa)
