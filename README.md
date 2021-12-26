@@ -1,4 +1,4 @@
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-Project-Template&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-library-template&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-library-template&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-library-template&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
 ![GitHub Actions](https://github.com/MathieuSoysal/Java-Maven-library-template/workflows/Java%20CI%20with%20Maven/badge.svg)
