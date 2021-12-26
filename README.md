@@ -1,7 +1,7 @@
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-Project-Template&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-Project-Template)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-Project-Template&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-Project-Template)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_CodinGame-Puzzles-stats-library&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_CodinGame-Puzzles-stats-library)
-![GitHub Actions](https://github.com/MathieuSoysal/Java-Maven-Project-Template/workflows/Java%20CI%20with%20Maven/badge.svg)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-Project-Template&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-library-template&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-library-template&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
+![GitHub Actions](https://github.com/MathieuSoysal/Java-Maven-library-template/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 # <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="100"> Java Maven Library Template [![GitHub](https://img.shields.io/badge/license-Apache%202.0%20License-green)](LICENSE)
