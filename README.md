@@ -3,6 +3,8 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MathieuSoysal_Java-Maven-library-template&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MathieuSoysal_Java-Maven-library-template)
 ![GitHub Actions](https://github.com/MathieuSoysal/Java-Maven-library-template/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
+[![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://mathieusoysal.github.io/Java-Maven-library-template/javadoc/)
+
 
 # <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="100"> Java Maven Library Template [![GitHub](https://img.shields.io/badge/license-Apache%202.0%20License-green)](LICENSE)
 
@@ -29,8 +31,15 @@ To use this template, you just have to click on "Use this template" on the main 
   - *NEXUS_PASSWORD* with your password used on SOnatype
   - *GPG_PRIVATE_KEY* with the private key of your generated pgp key
   - *GPG_PASSPHRASE* with the passphrase of your gpg key
+- [ ] **Active JavaDoc GitHub Page**
+  - *To active JavaDoc GitHub Page, you need to enable GitHub Page on your repository to the javadoc branch.*
 
 ## Badges
 
 Don't forget to add your own SonarCloud badges to your readme 😉
  - to get your maven-central badge : https://shields.io/category/platform-support
+ - to get your JavaDoc Badge : 
+```Markdown
+  [![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://<github-username>.github.io/<github-repo>/javadoc/)
+```
+On the link of JavaDoc badge, replace  `<github-username>` by your GitHub username, `<github-repo>` by the name of your GitHub repository.
