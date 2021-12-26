@@ -4,9 +4,9 @@
 ![GitHub Actions](https://github.com/MathieuSoysal/Java-Maven-Project-Template/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
-# <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="100"> Java Maven project template [![GitHub](https://img.shields.io/badge/license-Apache%202.0%20License-green)](https://github.com/MathieuSoysal/CodinGame-Puzzles-stats-library/blob/master/LICENSE)
+# <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="100"> Java Maven Library Template [![GitHub](https://img.shields.io/badge/license-Apache%202.0%20License-green)](LICENSE)
 
-Template for basic maven project with CI SonarCloud, QL and CD to automatically deploy docker image on release.
+Template to easily create a Java library and publish it automatically each version on GitHub Package and Maven Central.
 
 ## Use template
 
