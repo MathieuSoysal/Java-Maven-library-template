@@ -6,7 +6,7 @@
 
 # <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="100"> Java Maven Library Template [![GitHub](https://img.shields.io/badge/license-Apache%202.0%20License-green)](LICENSE)
 
-Template to easily create a Java library and publish it automatically each version on GitHub Package and Maven Central.
+Template to easily create a Maven Java library and publish it automatically on GitHub Package and Maven Central, publishing is automatised via the releases on repo.
 
 ## Use template
 
@@ -33,3 +33,4 @@ To use this template, you just have to click on "Use this template" on the main 
 ## Badges
 
 Don't forget to add your own SonarCloud badges to your readme 😉
+ - to get your maven-central badge : https://shields.io/category/platform-support
