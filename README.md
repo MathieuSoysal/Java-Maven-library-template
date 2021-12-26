@@ -12,6 +12,11 @@ Template to easily create a Java library and publish it automatically each versi
 
 To use this template, you just have to click on "Use this template" on the main page of this repository, or you can copy/paste this repository.
 
+## Requirements
+- [ ] [Create acount on Sonatype](https://issues.sonatype.org/secure/Signup!default.jspa)
+- [ ] [Create JIRA ticket on Sonatype to aprouve your groupId (io.github.YOUR-GITHUB-USERNAME)](https://issues.sonatype.org/secure/CreateIssue.jspa?issuetype=21&pid=10134)
+- [ ] [Generate a gpg key and distributing public key to a keyserver](https://central.sonatype.org/publish/requirements/gpg/)
+
 ## Template configuration :
 
 - [ ] **Fix pom.xml**
@@ -19,7 +24,11 @@ To use this template, you just have to click on "Use this template" on the main 
 - [ ] **Config SonarCloud**
   - To config SonarCloud to your project you need to go on https://sonacloud.io
   - Replace the file at /.github/workflows/sonar.yml with your own yaml file at https://sonacloud.io and if your Java project is not on Java 11, edit this yaml file.
-
+- [ ] **Create your GitHub secrets on your repository**
+  - *NEXUS_USERNAME* with your username used on Sonatype
+  - *NEXUS_PASSWORD* with your password used on SOnatype
+  - *GPG_PRIVATE_KEY* with the private key of your generated pgp key
+  - *GPG_PASSPHRASE* with the passphrase of your gpg key
 
 ## Badges
 
