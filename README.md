@@ -38,3 +38,8 @@ To use this template, you just have to click on "Use this template" on the main 
 
 Don't forget to add your own SonarCloud badges to your readme 😉
  - to get your maven-central badge : https://shields.io/category/platform-support
+ - to get your JavaDoc Badge : 
+```Markdown
+  [![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://<github-username>.github.io/<github-repo>/javadoc/)
+```
+On the link of JavaDoc badge, replace  *<github-username>* by your GitHub username, *<github-repo>* by the name of your GitHub repository.
