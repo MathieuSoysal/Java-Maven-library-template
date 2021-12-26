@@ -31,6 +31,8 @@ To use this template, you just have to click on "Use this template" on the main 
   - *NEXUS_PASSWORD* with your password used on SOnatype
   - *GPG_PRIVATE_KEY* with the private key of your generated pgp key
   - *GPG_PASSPHRASE* with the passphrase of your gpg key
+- [ ] **Active JavaDoc GitHub Page**
+  - *To active JavaDoc GitHub Page, you need to enable GitHub Page on your repository to the javadoc branch.*
 
 ## Badges
 
