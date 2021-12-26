@@ -68,8 +68,8 @@
     <licenses>
         <license>
             <!-- FIXME replace with the name of your LICENSE -->
-            <name>GNU General Public License v3.0</name>
-            <!-- FIXME replace with the to your LICENSE -->
+            <name>Apache-2.0 License</name>
+            <!-- FIXME replace with the to your LICENSE url -->
             <url>https://github.com/MathieuSoysal/Java-Maven-library-template/blob/master/LICENSE</url>
         </license>
     </licenses>
