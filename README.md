@@ -25,14 +25,14 @@ To use this template, you just need to click on "Use this template" at the top o
   - *To guide you, a FIXME tag has been added to all lines to be edited.*
 - [ ] **Config SonarCloud**
   - To configure SonarCloud for your project you must go to https://sonarcloud.io
-  - Replace the file at /.github/workflows/sonar.yml with your own yaml file at https://sonarcloud.io and if your Java project is not on Java 11 edit that yaml file.
+  - Replace the file at [/.github/workflows/sonar.yml](.github/workflows/sonar.yml) with your own yaml file at https://sonarcloud.io and if your Java project is not on Java 11 edit that yaml file.
 - [ ] **Create your GitHub secrets on your repository**
   - *NEXUS_USERNAME* with your username used on Sonatype
-  - *NEXUS_PASSWORD* with your password used on SOnatype
+  - *NEXUS_PASSWORD* with your password used on Sonatype
   - *GPG_PRIVATE_KEY* with the private key of your generated pgp key
   - *GPG_PASSPHRASE* with the passphrase of your gpg key
 - [ ] **Activate the JavaDoc GitHub page**
-  - *To enable the JavaDoc GitHub Page, you need to enable the GitHub page in your repository settings for the javadoc branch.*
+  - To enable the JavaDoc GitHub Page, you need to enable the GitHub page in your repository settings for the *javadoc* branch.
 
 ## Badges
 
