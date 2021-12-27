@@ -43,3 +43,7 @@ Don't forget to add your own SonarCloud badges to your readme 😉
   [![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://<github-username>.github.io/<github-repo>/javadoc/)
 ```
 On the link of JavaDoc badge, replace  `<github-username>` by your GitHub username, `<github-repo>` by the name of your GitHub repository.
+
+## Contact
+
+If you have any problems setting up CI, CD or other, do not hesitate to contact me at Mathieu.Soysal@etu.umontpellier.fr
