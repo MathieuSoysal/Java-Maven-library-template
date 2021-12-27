@@ -24,8 +24,8 @@ To use this template, you just need to click on "Use this template" at the top o
 - [ ] **Fix pom.xml**
   - *To guide you, a FIXME tag has been added to all lines to be edited.*
 - [ ] **Config SonarCloud**
-  - To configure SonarCloud for your project you must go to https://sonacloud.io
-  - Replace the file at /.github/workflows/sonar.yml with your own yaml file at https://sonacloud.io and if your Java project is not on Java 11 edit that yaml file.
+  - To configure SonarCloud for your project you must go to https://sonarcloud.io
+  - Replace the file at /.github/workflows/sonar.yml with your own yaml file at https://sonarcloud.io and if your Java project is not on Java 11 edit that yaml file.
 - [ ] **Create your GitHub secrets on your repository**
   - *NEXUS_USERNAME* with your username used on Sonatype
   - *NEXUS_PASSWORD* with your password used on SOnatype
