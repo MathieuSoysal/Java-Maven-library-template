@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"io.github.pseudo","c":"App","l":"App()","u":"%3Cinit%3E()"},{"p":"io.github.pseudo","c":"App","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
+memberSearchIndex = [{"p":"fr.crous.logement","c":"App","l":"App()","u":"%3Cinit%3E()"},{"p":"io.github.pseudo","c":"App","l":"App()","u":"%3Cinit%3E()"},{"p":"fr.crous.logement","c":"App","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"io.github.pseudo","c":"App","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
