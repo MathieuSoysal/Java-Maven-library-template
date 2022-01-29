@@ -30,6 +30,7 @@ To use this template, you just need to click on "Use this template" at the top o
   - *NEXUS_USERNAME* with your username used on Sonatype
   - *NEXUS_PASSWORD* with your password used on Sonatype
   - *GPG_PRIVATE_KEY* with the private key of your generated pgp key
+    - to get the private key `gpg --armor --export-secret-key <key-id> > privkey.asc` 
   - *GPG_PASSPHRASE* with the passphrase of your gpg key
 - [ ] **Activate the JavaDoc GitHub page**
   - To enable the JavaDoc GitHub Page, you need to enable the GitHub page in your repository settings for the *javadoc* branch.
