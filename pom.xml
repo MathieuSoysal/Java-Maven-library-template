@@ -38,6 +38,7 @@
         <!-- FIXME replace with your SonarCloud organization on https://sonarcloud.io -->
         <sonar.organization>mathieusoysal</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>MathieuSoysal_Java-Maven-library-template</sonar.projectKey>
     </properties>
 
     <dependencies>
