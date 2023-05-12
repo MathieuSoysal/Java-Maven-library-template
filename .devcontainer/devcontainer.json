@@ -16,7 +16,8 @@
 			"extensions": [
 				"vscjava.vscode-java-pack",
 				"DotJoshJohnson.xml",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"github.vscode-github-actions"
 			]
 		}
 	}
