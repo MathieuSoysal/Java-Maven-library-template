@@ -23,7 +23,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.release>${java.version}</maven.compiler.release>
-        <junit>5.8.2</junit>
+        <junit>5.9.3</junit>
 
         <!-- Plugin versions -->
         <maven.shade>3.4.1</maven.shade>
