@@ -22,7 +22,7 @@ jobs:
       run: mvn test-compile org.pitest:pitest-maven:mutationCoverage
 
     - name: Deploy to GitHub Page 🚀 with Maven
-      uses: JamesIves/github-pages-deploy-action@v4.4.1
+      uses: JamesIves/github-pages-deploy-action@v4.4.3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         branch: test
